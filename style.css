@@ -1,6 +1,9 @@
 body{
     background-color:darkslategray;
+    font-family:BBH Sans Bartle;
+
 }
 header{
     background-color:rgb(128, 243, 243);
+    font-size:40px;
 }
