@@ -1,9 +1,12 @@
 body{
-    background-color:darkslategray;
-    font-family:BBH Sans Bartle;
+    background-color:rgb(222, 195, 99);
+    font-family: Playfair Display; 
 
 }
 header{
-    background-color:rgb(128, 243, 243);
-    font-size:40px;
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    border:dashed
+    color:cyan
 }
