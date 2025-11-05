@@ -1,12 +1,16 @@
 body{
-    background-color:rgb(222, 195, 99);
+    background-color:rgb(70, 152, 190);
     font-family: Playfair Display; 
 
 }
 header{
     font-size: 50px;
     text-align: center;
-    background-color: black;
-    border:dashed
-    color:cyan
+    background-color: rgb(123, 153, 235);
+    border:double;
+    color:black;
+}
+.top1{
+text-align: center;
+padding-botton: 40px;
 }
